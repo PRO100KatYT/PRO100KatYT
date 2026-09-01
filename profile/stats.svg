@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">PRO100KatYT&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 197, Total Commits  : 1475, Total PRs: 106, Total Issues: 7, Contributed to (last year): 12</desc>
+        <desc id="descId">Total Stars Earned: 198, Total Commits  : 1475, Total PRs: 106, Total Issues: 7, Contributed to (last year): 12</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 88.34899415151462;
+        stroke-dashoffset: 88.2806124386247;
       }
     }
   
@@ -162,7 +162,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >197</text>
+      >198</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
